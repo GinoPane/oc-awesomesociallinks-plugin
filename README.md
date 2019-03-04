@@ -3,7 +3,7 @@
 [![GitHub tag](https://img.shields.io/github/tag/ginopane/oc-awesomesociallinks-plugin.svg)](https://github.com/GinoPane/oc-awesomesociallinks-plugin)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GinoPane/oc-awesomesociallinks-plugin/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GinoPane/oc-awesomesociallinks-plugin/?branch=master)
 
-[_Awesome Social Links_](https://octobercms.com/plugin/ginopane-awesomesociallinks) adds ability to have a list of social or any other branded icons associated with your website. The icons could be listed on the frontend using included frontend component.
+[_Awesome Social Links_](https://octobercms.com/plugin/ginopane-awesomesociallinks) adds ability to have a list of social or any other branded icons associated with your website. The icons could be listed on the front end using included front-end component.
 
 ## Requirements
 
@@ -15,7 +15,7 @@ The Awesome Social Links provides a backend settings page where you can configur
 
 The list allows you to set the icon (powered by Awesome Icons List), the name of the link item and the link URL itself. Make sure to use meaningful names for you link items because they will be used as configuration keys for the frontend component. Also you can rearrange the order of items.
 
-## Frontend Component
+## Front-end Component
 
 The plugin provides a `linkList` component which can be used to display the list of icons on your website.
 
