@@ -1,6 +1,7 @@
 # Awesome Social Links
 
 [![GitHub tag](https://img.shields.io/github/tag/ginopane/oc-awesomesociallinks-plugin.svg)](https://github.com/GinoPane/oc-awesomesociallinks-plugin)
+[![Maintainability](https://api.codeclimate.com/v1/badges/726a9bacda5a4998f60f/maintainability)](https://codeclimate.com/github/GinoPane/oc-awesomesociallinks-plugin/maintainability)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/GinoPane/oc-awesomesociallinks-plugin/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/GinoPane/oc-awesomesociallinks-plugin/?branch=master)
 
 [_Awesome Social Links_](https://octobercms.com/plugin/ginopane-awesomesociallinks) adds ability to have a list of social or any other branded icons associated with your website. The icons could be listed on the front end using included front-end component.
