@@ -19,6 +19,6 @@ The list allows you to set the icon (powered by Awesome Icons List), the name of
 
 The plugin provides a `linkList` component which can be used to display the list of icons on your website.
 
-> The default markup provided with the plugin is just an example, so make sure to fit it into your website's theme
+> The default markup provided with the plugin is just an example, so make sure to fit it into your website's theme.
 
 The component settings allow you to choose which icons from the list you want to display via this component instance. Also as a supplemental option you can set `linkTarget` and use it for you links as target (`_blank`, `_self` etc.) attribute value.
