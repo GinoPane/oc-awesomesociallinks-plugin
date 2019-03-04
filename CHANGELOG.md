@@ -16,7 +16,7 @@ Types of changes
 
 ## [Unreleased]
 
-## 1.0.0 - 2019-xx-xx
+## 1.0.0 - 2019-03-04
 
 ### Features
 * The initial release of Awesome Social Links.
